@@ -27,5 +27,5 @@ Auth::routes(['register' => false]);
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::any('/{anything}', function(){ 
-    print("404 Error: Something went wrong!"); 
+    print("404 Error: Wrong page path!"); 
    })->where('anything', '.*');
