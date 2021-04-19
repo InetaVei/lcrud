@@ -19,7 +19,8 @@ DB_CONNECTION=mysql<br>
 DB_HOST=127.0.0.1<br>
 DB_PORT=3306<br> 
 DB_DATABASE=lcrud<br> 
-DB_USERNAME=root DB_PASSWORD=mysql<br>
+DB_USERNAME=root<br>
+DB_PASSWORD=mysql<br>
 5. Run **php artisan migrate** to create tables.
 6. To open project, run **php artisan serve** and follow the link.
 7. To login add e-mail: **aaa@aaa.com** password: **amin123**.
