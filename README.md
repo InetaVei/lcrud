@@ -30,9 +30,9 @@ DB_PASSWORD=mysql<br>
 
 <img width="829" alt="1" src="https://user-images.githubusercontent.com/74532995/115245657-d8554800-a12d-11eb-8442-0eab7f7b4ae2.png">
 <br>
-<img width="845" alt="2" src="https://user-images.githubusercontent.com/74532995/115245686-e2774680-a12d-11eb-89d3-c2693b7ffd64.png">
-<br>
 <img width="850" alt="3" src="https://user-images.githubusercontent.com/74532995/115245691-e2774680-a12d-11eb-97a3-c642a1cfc5f6.png">
+<br>
+<img width="845" alt="2" src="https://user-images.githubusercontent.com/74532995/115245686-e2774680-a12d-11eb-89d3-c2693b7ffd64.png">
 <br>
 <img width="846" alt="4" src="https://user-images.githubusercontent.com/74532995/115245694-e30fdd00-a12d-11eb-9c57-5776505fe219.png">
 <br>
