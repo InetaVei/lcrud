@@ -15,7 +15,7 @@ This app is built with Laravel framework.
 2. Run **composer install**;
 3. Use AMPPS or other open-source platform;
 4. Create new schema 'lcrud' in your database; 
-5. Rename **.env example** file to **.env** and configure Database:
+5. Rename **.env example** file to **.env** and configure Database:<br>
 DB_CONNECTION=mysql<br>
 DB_HOST=127.0.0.1<br>
 DB_PORT=3306<br> 
